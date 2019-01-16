@@ -95,7 +95,7 @@ Denise case
 dcase@nwmissouri.edu
 
 ## New Section 
-## Heading 1
-Web apps
-## Heading 2
-java
+## My profile
+- M Ragahvendar Reddy
+- Age :22
+- Major :ACS
