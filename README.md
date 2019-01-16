@@ -90,10 +90,12 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Denise case
 
 dcase@nwmissouri.edu
 
 ## New Section 
-
-
+## Heading 1
+Web apps
+## Heading 2
+java
