@@ -99,3 +99,7 @@ dcase@nwmissouri.edu
 - M Ragahvendar Reddy
 - Age :22
 - Major :ACS
+## Subjects
+1. Webapps
+2. Java
+3. Database
