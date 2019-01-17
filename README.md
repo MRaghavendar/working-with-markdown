@@ -7,6 +7,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 - [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
 
 ## Getting Started
+![happy dogs](https://github.com/MRaghavendar/working-with-markdown/blob/master/102318-dogs-color-determine-disesases-life.jpg "milindar")
 
 1. Login to GitHub.
 1. Click + to add a new repo. 
